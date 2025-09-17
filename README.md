@@ -2,7 +2,7 @@
 
 Group Members:
 
-Afra Alam
-Ryan Aoude
-Param Jayesh Katrodia
-Heet Hiteshbhai Patel
+Afra Alam  
+Ryan Aoude  
+Param Jayesh Katrodia  
+Heet Hiteshbhai Patel  
